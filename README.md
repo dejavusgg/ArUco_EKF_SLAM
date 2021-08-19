@@ -1,6 +1,6 @@
 # ArUco_EKF_SLAM
 
-Dataset for the demo: https://pan.baidu.com/s/10crRfgGcZ-XgcBjefxAPDg  Password: pqby
+Dataset for the demo: https://pan.baidu.com/s/10crRfgGcZ-XgcBjefxAPDg     Password: pqby
 
 After you download the dataset, the launch file (slam.launch) should be modified to link the correct download path.
 
