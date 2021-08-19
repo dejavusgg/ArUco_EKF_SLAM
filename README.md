@@ -15,3 +15,9 @@ Step3: Run launch: roslaunch aruco_ekf_slam slam.launch
 
 Step4. Play a rosbag: rosbag play aruco_slam_data_qhd1.bag -r 5
 
+References
+---
+1. OpenCV library for the fundamental functions of Aruco codes: https://docs.opencv.org/3.3.0/d9/d6d/tutorial_table_of_content_aruco.html
+
+2. <Probalisitic Robotics>
+
