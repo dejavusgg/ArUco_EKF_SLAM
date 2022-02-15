@@ -1,6 +1,3 @@
-// Copyright (C) 2018 Dongsheng Yang <ydsf16@buaa.edu.cn>
-//(Biologically Inspired Mobile Robot Laboratory, Robotics Institute, Beihang University)
-
 #include <ros/ros.h>
 #include <geometry_msgs/QuaternionStamped.h>
 #include <cv_bridge/cv_bridge.h>
